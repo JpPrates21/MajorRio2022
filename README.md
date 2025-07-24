@@ -1,4 +1,6 @@
 # 🏆 MAJOR RIO 2022 - Página Informativa do Major de CS:GO
+🔗 Acesse a página online: https://majorrio2022.netlify.app
+
 
 Bem-vindo ao repositório da página informativa sobre o Major de CS:GO Rio 2022! Esta página foi projetada para oferecer uma visão detalhada e imersiva sobre o tão aguardado torneio realizado no coração da América do Sul, o Rio de Janeiro. Com design responsivo, elementos interativos e fácil navegação, esta página é voltada para fãs e entusiastas do CS:GO.
 
